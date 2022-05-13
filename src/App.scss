@@ -1,0 +1,12 @@
+@import "styles/main";
+
+.App {
+  height: 100vh;
+}
+
+.AppContainer {
+  height: 100vh;
+  font-family: "Open Sans";
+  flex-direction: column;
+  display: flex;
+}
